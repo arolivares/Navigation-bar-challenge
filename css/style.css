@@ -1,4 +1,7 @@
-
+.bg-primary{
+    background: rgb(71,175,252);
+background: linear-gradient(90deg, rgba(71,175,252,1) 12%, rgba(25,227,254,1) 36%, rgba(151,245,207,1) 67%)!important;
+}
 .col{
     text-align: center;}
 
